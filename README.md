@@ -1,4 +1,4 @@
-### Hi there, I'm Kamrul. - aka [https://github.com/mdkamrulislam-web][https://www.mdkamrulislam.me] 👋
+### Hi there, I'm Kamrul. - aka [mdkamrulislam-web][website] 👋
 
 ## I'm a Software and Electrical & Electronic Engineer!
 
