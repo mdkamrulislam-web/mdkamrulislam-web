@@ -41,3 +41,5 @@
     </p>
 </body>
 </html>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdkamrulislam-web&theme=chartreuse-dark&show_icons=true)
