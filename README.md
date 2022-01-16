@@ -8,7 +8,7 @@
 <body>
     <p align="center">
         <ul>   
-          <img src="https://github.com/nahidnsu152/nahidnsu152/blob/main/images/1.jpeg" />
+          <img src="https://github.com/mdkamrulislam-web/mdkamrulislam-web/blob/main/images/1.jpeg" />
           <h1 align="center">Hi there, I'm Kamrul.</h1>
           <h1 align="center">I'm a Software and Electrical & Electronic Engineer!</h1>
           <li> 🔭 I’m currently working on a Flutter Chatting Application.</li>
@@ -41,5 +41,3 @@
     </p>
 </body>
 </html>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdkamrulislam-web&theme=chartreuse-dark&show_icons=true)
