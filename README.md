@@ -14,7 +14,7 @@
                 <li> 🔭 I’m currently working on a Flutter Chatting Application.</li>
                 <li> 🌱 I’m currently learning GetX State Management</li>
                 <li> 💬 Ask me aything you want to know about me!</li>
-                <li> 📫 How to reach me: [md.kamrul.islam@g.bracu.ac.bd]</li>
+                <li> 📫 How to reach me: md.kamrul.islam@g.bracu.ac.bd</li>
                 <li> ⚡ Fun fact: I completed my graduation in Electrical & Electronic Engineering. But I am a Software Engineer now.</li>
             </ul>
         </p>
