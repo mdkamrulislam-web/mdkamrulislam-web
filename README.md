@@ -33,9 +33,11 @@
                 <img align="center" alt="Kamrul's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
         </a>
         <br/>
-        <br/>
-        <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdkamrulislam-web&count_private=true&theme=chartreuse-dark&show_icons=true" alt="Pramod's Github            Stats">
+            <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkamrulislam-web&layout=compact&theme=chartreuse-dark&langs_count=12"> <br/><br/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdkamrulislam-web&count_private=true&theme=chartreuse-dark&show_icons=true" alt="Pramod's Github            Stats">
+            <br/> <br/> 
+             <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkamrulislam-web&theme=nord"/> <br/><br/>
         </p>
        </a>
     </p>
