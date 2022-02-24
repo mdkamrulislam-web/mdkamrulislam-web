@@ -8,7 +8,7 @@
 <body>
         <p align="center">
             <ul>
-                <img src="https://github.com/mdkamrulislam-web/mdkamrulislam-web/blob/main/images/1.png" />
+                <img src="https://github.com/mdkamrulislam-web/mdkamrulislam-web/blob/main/images/cover.jpg" />
                 <h1 align="center">Hi there, I'm Kamrul.</h1>
                 <h1 align="center">I'm a Electrical & Electronic Engineer & Flutter Developer!</h1>
                 <li> 🌱 I’m currently learning RTL Design and Functional Verification.</li>
