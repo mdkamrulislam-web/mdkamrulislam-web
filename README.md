@@ -10,12 +10,10 @@
             <ul>
                 <img src="https://github.com/mdkamrulislam-web/mdkamrulislam-web/blob/main/images/1.png" />
                 <h1 align="center">Hi there, I'm Kamrul.</h1>
-                <h1 align="center">I'm a Software and Electrical & Electronic Engineer!</h1>
-                <li> 🔭 I’m currently working on a Flutter Chatting Application.</li>
-                <li> 🌱 I’m currently learning GetX State Management</li>
+                <h1 align="center">I'm a Electrical & Electronic Engineer & Flutter Developer!</h1>
+                <li> 🌱 I’m currently learning RTL Design and Functional Verification.</li>
                 <li> 💬 Ask me aything you want to know about me!</li>
                 <li> 📫 How to reach me: md.kamrul.islam@g.bracu.ac.bd</li>
-                <li> ⚡ Fun fact: I completed my graduation in Electrical & Electronic Engineering. But I am a Software Engineer now.</li>
             </ul>
         </p>
         <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
