@@ -9,9 +9,9 @@
         <p align="center">
             <ul>
                 <img src="https://github.com/mdkamrulislam-web/mdkamrulislam-web/blob/main/images/cover.jpg" />
-                <h1 align="center">Hi there, I'm Kamrul.</h1>
-                <h1 align="center">I'm a Electrical & Electronic Engineer & Flutter Developer!</h1>
-                <li> 🌱 I’m currently learning RTL Design and Functional Verification.</li>
+                <h1 align="center">Md. Kamrul Islam</h1>
+                <h1 align="center">Electrical & Electronic Engineer</h1>
+                <li> 🌱 I’m currently learning Functional Verification.</li>
                 <li> 💬 Ask me aything you want to know about me!</li>
                 <li> 📫 How to reach me: md.kamrul.islam@g.bracu.ac.bd</li>
             </ul>
